@@ -13,4 +13,4 @@ let b:did_ftplugin = 1
 setlocal syntax=gml
 setlocal foldmethod=marker
 setlocal completefunc=syntaxcomplete#Complete
-setlocal commentstring=// %s
+setlocal commentstring=//\ %s
